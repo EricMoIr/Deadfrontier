@@ -1,0 +1,10 @@
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\PersistenceLib\bin\Debug\Persistence.dll.config
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\PersistenceLib\bin\Debug\Persistence.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\PersistenceLib\bin\Debug\Persistence.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\PersistenceLib\bin\Debug\EntityFramework.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\PersistenceLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\PersistenceLib\bin\Debug\EntityFramework.xml
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\PersistenceLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\PersistenceLib\obj\Debug\Persistence.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\PersistenceLib\obj\Debug\Persistence.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\PersistenceLib\obj\Debug\PersistenceLib.csprojResolveAssemblyReference.cache

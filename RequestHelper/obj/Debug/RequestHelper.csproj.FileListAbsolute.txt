@@ -1,0 +1,11 @@
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\RequestHelper\bin\Debug\RequestHelper.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\RequestHelper\bin\Debug\RequestHelper.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\RequestHelper\bin\Debug\Persistence.exe
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\RequestHelper\bin\Debug\EntityFramework.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\RequestHelper\bin\Debug\Persistence.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\RequestHelper\bin\Debug\EntityFramework.xml
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\RequestHelper\obj\Debug\RequestHelper.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\RequestHelper\obj\Debug\RequestHelper.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\RequestHelper\obj\Debug\RequestHelper.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\RequestHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\RequestHelper\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,13 @@
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\MarketAnalyzer\bin\Debug\MarketAnalyzer.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\MarketAnalyzer\bin\Debug\MarketAnalyzer.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\MarketAnalyzer\bin\Debug\Persistence.exe
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\MarketAnalyzer\bin\Debug\RequestHelper.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\MarketAnalyzer\bin\Debug\EntityFramework.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\MarketAnalyzer\bin\Debug\Persistence.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\MarketAnalyzer\bin\Debug\RequestHelper.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\MarketAnalyzer\bin\Debug\EntityFramework.xml
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\MarketAnalyzer\obj\Debug\MarketAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\MarketAnalyzer\obj\Debug\MarketAnalyzer.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\MarketAnalyzer\obj\Debug\MarketAnalyzer.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\MarketAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\DFHacks\MarketAnalyzer\bin\Debug\Newtonsoft.Json.xml

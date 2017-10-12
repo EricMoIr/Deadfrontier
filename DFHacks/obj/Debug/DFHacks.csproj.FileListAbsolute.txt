@@ -1,0 +1,8 @@
+c:\Users\Eric\documents\visual studio 2015\Projects\DFHacks\DFHacks\bin\Debug\DFHacks.exe.config
+c:\Users\Eric\documents\visual studio 2015\Projects\DFHacks\DFHacks\bin\Debug\DFHacks.exe
+c:\Users\Eric\documents\visual studio 2015\Projects\DFHacks\DFHacks\bin\Debug\DFHacks.pdb
+c:\Users\Eric\documents\visual studio 2015\Projects\DFHacks\DFHacks\bin\Debug\RequestHelper.dll
+c:\Users\Eric\documents\visual studio 2015\Projects\DFHacks\DFHacks\bin\Debug\RequestHelper.pdb
+c:\Users\Eric\documents\visual studio 2015\Projects\DFHacks\DFHacks\obj\Debug\DFHacks.csprojResolveAssemblyReference.cache
+c:\Users\Eric\documents\visual studio 2015\Projects\DFHacks\DFHacks\obj\Debug\DFHacks.exe
+c:\Users\Eric\documents\visual studio 2015\Projects\DFHacks\DFHacks\obj\Debug\DFHacks.pdb
